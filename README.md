@@ -6,3 +6,4 @@ A frontend portfolio project demonstrating use of the Spotify API
 - React + TypeScript + SWC
 - Tailwind CSS
 - Styled Components
+- Netlify
